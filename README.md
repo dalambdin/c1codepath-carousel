@@ -8,9 +8,9 @@ Time spent: `<Number of hours spent>`
 
 #### Required
 
-- [ ] Static photo tiles on the initial screen.
-- [ ] Sign In.
-  - [ ] Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
+- [x] Static photo tiles on the initial screen.
+- [x] Sign In.
+  - [x] Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
   - [ ] User sees an error alert when no email is present or no password is present.
   - [ ] User sees a loading screen upon tapping the Sign In button.
   - [ ] ```alertView.dismissWithClickedButtonIndex(0, animated: true)``` dismisses the loading screen with no buttons.
@@ -31,9 +31,9 @@ Time spent: `<Number of hours spent>`
 #### Optional
 
 - [ ] Photo tiles move with scrolling.
-- [ ] Sign In
+- [x] Sign In
   - [ ] When the keyboard is visible, if the user pulls down on the scrollview, it will dismiss the keyboard
-  - [ ] On appear, scale the form up and fade it in.
+  - [x] On appear, scale the form up and fade it in.
 - [ ] Sign Up
   - [ ] Tapping in the form reveals the keyboard and shifts the scrollview and "Create a Dropbox" button up.
   - [ ] Tapping the Agree to Terms checkbox selects the checkbox.
