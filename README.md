@@ -64,7 +64,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://c1codepath-carousel/Carousel.gif />
+<img src='https://github.com/dalambdin/c1codepath-carousel/Carousel.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
