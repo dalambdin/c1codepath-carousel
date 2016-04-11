@@ -2,7 +2,7 @@
 
 The purpose of this homework is to leverage views, view properties, and events to create a high fidelity prototype that is difficult to distinguish from a production app. We're going to use the techniques from this week to implement the Carousel app from the signed out state to the basic signed in state.
 
-Time spent: `<Number of hours spent>`
+Time spent: `10`
 
 ### Features
 
@@ -12,8 +12,7 @@ Time spent: `<Number of hours spent>`
 - [x] Sign In.
   - [x] Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
   - [x] User sees an error alert when no email is present or no password is present.
-  - [ ] User sees a loading screen upon tapping the Sign In button.
-  - [ ] ```alertView.dismissWithClickedButtonIndex(0, animated: true)``` dismisses the loading screen with no buttons.
+  - [x] User sees a activity indicator upon tapping the Sign In button.
   - [x] User sees an error alert when entering the wrong email/password combination.
   - [x] User is taken to the tutorial screens upon entering the correct email/password combination.
 - [x] Tutorial Screens.
